@@ -2,7 +2,7 @@ This repository summarizes my research interests at the intersection of **AI-pow
 
 ---
 
-### Research Themes
+### Research Topics
 
 1. LLM-Enhanced Deep Code Reasoning and Multi-Path Vulnerability Exploration <p>
    Using LLMs to break through the limitations of traditional single-path symbolic execution:
