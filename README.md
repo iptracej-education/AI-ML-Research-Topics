@@ -1,5 +1,3 @@
-## 🔬 Research Portfolio: Advanced Vulnerability Analysis Platforms
-
 This repository summarizes my research interests at the intersection of **AI-powered code analysis**, **security engineering**, and **automated vulnerability discovery**. My work integrates Large Language Models (LLMs), fuzzing, symbolic execution, and human-in-the-loop collaboration to explore scalable, adaptive, and intelligent vulnerability analysis platforms.
 
 ---
