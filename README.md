@@ -28,12 +28,12 @@ This repository summarizes my research interests at the intersection of **AI-pow
      - Iterative Learning Loops: Enabling mutual improvement between human researchers and LLMs through collaborative debugging and continuous knowledge accumulation.
 
 
-Keywords
+### Keywords
 
 `LLMs`, `Fuzzing`, `CodeQL`, `Symbolic Execution`, `Human-in-the-Loop`, `Exploit Generation`, `Concurrency Analysis`, `Memory Safety`, `Security Engineering`, `AI-Augmented Vulnerability Research`
 
 
-#### 📫 Contact
+### 📫 Contact
 
 Feel free to reach out with collaborations or discussions:
 
