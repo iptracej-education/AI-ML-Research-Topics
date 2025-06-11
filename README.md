@@ -9,9 +9,9 @@ This repository summarizes my research interests at the intersection of **AI-pow
 1. LLM-Enhanced Deep Code Reasoning and Multi-Path Vulnerability Exploration <p>
    Using LLMs to break through the limitations of traditional single-path symbolic execution:
 
-  - Beyond Crash Paths: Exploring alternative branches and variable transitions that static tools typically ignore.
-  - Guided Input Mutation: Suggesting precise test inputs to trigger deeper and more complex code paths.
-  - Concurrency and Shared Object Reasoning: Automating analysis of vulnerabilities dependent on multi-threaded logic and dynamic object sharing.
+     - Beyond Crash Paths: Exploring alternative branches and variable transitions that static tools typically ignore.
+     - Guided Input Mutation: Suggesting precise test inputs to trigger deeper and more complex code paths.
+     - Concurrency and Shared Object Reasoning: Automating analysis of vulnerabilities dependent on multi-threaded logic and dynamic object sharing.
 
 2. Adaptive and Data-Driven Vulnerability Discovery Pipelines
 
